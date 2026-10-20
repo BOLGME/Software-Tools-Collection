@@ -43,6 +43,7 @@ Other operating systems have not been tested; please proceed at your own discret
 
 - [Screen Recording Software](https://github.com/AsaneNAY/Software-Tools-Collection/releases/tag/%E5%B1%8F%E5%B9%95%E5%BD%95%E5%88%B6%E8%BD%AF%E4%BB%B6)
 - [Video Players](https://github.com/AsaneNAY/Software-Tools-Collection/releases/tag/%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E5%99%A8)
+- [Quick File Preview Tool](https://github.com/AsaneNAY/Software-Tools-Collection/releases/tag/%E5%BF%AB%E9%80%9F%E9%A2%84%E8%A7%88%E6%96%87%E4%BB%B6%E5%B7%A5%E5%85%B7)
 
 </details>
 
@@ -128,6 +129,7 @@ The categorization might not be entirely accurate—please bear with me! (｡>�
   
 - [屏幕录制软件](https://github.com/AsaneNAY/Software-Tools-Collection/releases/tag/%E5%B1%8F%E5%B9%95%E5%BD%95%E5%88%B6%E8%BD%AF%E4%BB%B6)
 - [视频播放器](https://github.com/AsaneNAY/Software-Tools-Collection/releases/tag/%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E5%99%A8)
+- [快速预览文件工具](https://github.com/AsaneNAY/Software-Tools-Collection/releases/tag/%E5%BF%AB%E9%80%9F%E9%A2%84%E8%A7%88%E6%96%87%E4%BB%B6%E5%B7%A5%E5%85%B7)
 
 </details>
 
