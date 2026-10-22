@@ -1,0 +1,19 @@
+name: Sync Fork
+on:
+  schedule:
+    - cron: '0 0 * * *'  # 每天 UTC 0 点运行（北京时间 8 点）
+  workflow_dispatch:      # 允许在 Actions 页面手动触发
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write     # 授予写入权限，GITHUB_TOKEN 即可推送
+    steps:
+      - name: Sync upstream changes
+        uses: aormsby/Fork-Sync-With-Upstream-action@v3.4
+        with:
+          upstream_sync_repo: AsaneNAY/Software-Tools-Collection      # 上游仓库，例如：apache/airflow
+          upstream_sync_branch: main          # 上游分支名
+          target_sync_branch: main            # 你 Fork 中要同步的分支
+          target_repo_token: ${{ secrets.GITHUB_TOKEN }}  # 自动令牌，无需手动设置
